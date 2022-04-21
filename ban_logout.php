@@ -1,0 +1,1 @@
+<?php header("Location: /dynamic/videos/rick.mp4");
